@@ -14,4 +14,6 @@ my_matrix_4= np.zeros( (5,5) )
 
 my_linspace = np.linspace(0,5,10)
 
-print(my_linspace)
+my_identity_matrix = np.eye(4)
+
+print(my_identity_matrix)
