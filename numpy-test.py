@@ -12,4 +12,6 @@ my_matrix_3 = np.arange(0,10,2)
 
 my_matrix_4= np.zeros( (5,5) )
 
-print(my_matrix_4)
+my_linspace = np.linspace(0,5,10)
+
+print(my_linspace)
