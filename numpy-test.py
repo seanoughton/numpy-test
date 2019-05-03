@@ -16,4 +16,6 @@ my_linspace = np.linspace(0,5,10)
 
 my_identity_matrix = np.eye(4)
 
-print(my_identity_matrix)
+random_numbers_array = np.random.rand(5,5)
+
+print(random_numbers_array)
