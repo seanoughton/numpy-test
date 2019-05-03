@@ -18,4 +18,6 @@ my_identity_matrix = np.eye(4)
 
 random_numbers_array = np.random.rand(5,5)
 
-print(random_numbers_array)
+my_reshaped_array = my_array.reshape(2,5)
+
+print(my_reshaped_array)
