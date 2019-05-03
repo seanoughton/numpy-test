@@ -10,4 +10,6 @@ my_2d_array = np.array(my_matrix_1)
 my_matrix_2 = np.arange(0,10)
 my_matrix_3 = np.arange(0,10,2)
 
-print(my_matrix_3)
+my_matrix_4= np.zeros( (5,5) )
+
+print(my_matrix_4)
